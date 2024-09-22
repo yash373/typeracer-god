@@ -36,7 +36,7 @@ Typeracer Bot is an automated Python program designed to give you an edge in Typ
 2. Use your browser extension to copy all the race text from the race window.
 3. Run the Python script:
     ```bash
-    python typeracer_bot.py
+    python main.py
     ```
 4. Select the typing textbox in Typeracer.
 5. Press `Ctrl + Alt + I` to activate the bot. The bot will automatically start typing the text in the race, ensuring a win!
