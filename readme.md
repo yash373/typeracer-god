@@ -1,6 +1,6 @@
-# Typeracer Bot
+# Typeracer God
 
-Typeracer Bot is an automated Python program designed to give you an edge in Typeracer games. The bot automatically types the text for you in a race after you copy the race text from the browser. Simply copy the text, run the bot, and press the hotkey (`Ctrl + Alt + I`) to start winning races!
+Typeracer God is an automated Python program designed to give you an edge in Typeracer games. The bot automatically types the text for you in a race after you copy the race text from the browser. Simply copy the text, run the bot, and press the hotkey (`Ctrl + Alt + I`) to start winning races!
 
 ## Features
 
